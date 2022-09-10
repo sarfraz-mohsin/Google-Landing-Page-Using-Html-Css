@@ -1,4 +1,4 @@
-#This is a google landing page
+# This is a google landing page
 This was made usign pure html and css, the images used in making this landing page were **.svg(Scalable vector graphics)** format. 
 You can checkout the code in the index.html for structure and styles.css for all the cascading style sheet.
 

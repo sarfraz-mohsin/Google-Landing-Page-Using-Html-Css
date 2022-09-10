@@ -7,4 +7,4 @@ Download the code and do some modifications.
 
 The page lookis something like this.
 
-![This is an image](https://twitter.com/SarfrazMohsin2/status/1568185888886378496?s=20&t=S6Zs1pBypYl8ZEFuD1dVZQ)
+![landing page](https://user-images.githubusercontent.com/68563076/189488255-eb20481d-dc92-4ce0-9179-77fb10de70e9.jpg)
